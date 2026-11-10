@@ -1,0 +1,7 @@
+data/bookings.json
+config.json.tmp
+*.log
+
+config.json
+config.json.tmp
+data/bookings.json

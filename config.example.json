@@ -1,0 +1,46 @@
+{
+  "businessName": "Krishna Auto Center",
+  "city": "Bhurkunda, Jharkhand",
+  "phone": "",
+  "whatsapp": "",
+  "address": "",
+  "mapsUrl": "",
+  "googleReviewUrl": "https://g.page/r/CUSZKIY2yV7aEAE/review",
+  "siteUrl": "",
+  "hours": "Please call to confirm today's availability",
+  "weeklyHoliday": "",
+  "serviceRadiusKm": 15,
+  "latitude": null,
+  "longitude": null,
+  "homeServiceAvailable": true,
+  "adminPin": "CHANGE-THIS-4821",
+  "currency": "INR",
+  "pricing": {
+    "visitFee": null,
+    "petrolPricePerLitre": null,
+    "bikeMileageKmPerLitre": null,
+    "travelMarginPercent": 0,
+    "labourIncludedProfit": true,
+    "profitMode": "none",
+    "profitValue": 0,
+    "partsMarkupPercent": 0,
+    "labourByService": {
+      "General servicing": null,
+      "Engine / starting issue": null,
+      "Brake repair": null,
+      "Battery / electrical": null,
+      "Clutch / chain": null,
+      "Puncture / tyre": null,
+      "Other issue": null
+    }
+  },
+  "services": [
+    "General servicing",
+    "Engine / starting issue",
+    "Brake repair",
+    "Battery / electrical",
+    "Clutch / chain",
+    "Puncture / tyre",
+    "Other issue"
+  ]
+}

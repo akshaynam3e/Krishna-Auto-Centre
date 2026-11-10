@@ -1,0 +1,12 @@
+{
+  "name": "krishna-auto-center-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first motorcycle service and home-booking app for Krishna Auto Center",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
